@@ -9,4 +9,3 @@ psycopg2
 ppscore
 missingno
 gensim
-python-Levenshtein
